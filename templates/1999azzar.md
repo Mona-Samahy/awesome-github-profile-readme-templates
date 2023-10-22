@@ -27,6 +27,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
+    <img src= https://w7.pngwing.com/pngs/396/318/png-transparent-robotics-science-fiction-technology-robot-electronics-computer-science-extraterrestrial-life.png>
   <p align="center">
       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
